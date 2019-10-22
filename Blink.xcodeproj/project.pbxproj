@@ -1067,6 +1067,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 				de,
@@ -1603,7 +1604,7 @@
 				PRODUCT_NAME = Blink;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = arm64;
 			};
@@ -1640,7 +1641,7 @@
 				PRODUCT_NAME = Blink;
 				PROVISIONING_PROFILE = "ef71f761-fcc0-457d-ad7c-07e520594656";
 				PROVISIONING_PROFILE_SPECIFIER = Com.CarlosCabanero.BlinkShell.Dist;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = arm64;
 			};
